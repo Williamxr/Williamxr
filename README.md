@@ -1,6 +1,6 @@
 ### Olá,  sou Williamxr 👋🌎
 
-- 🧑‍🎓 Estudante de programação em busca de crescimento profissional e pessoal
+- 🙋‍♂️ Dev Front End em busca de crescimento profissional e pessoal
 - 👨‍💻 Atualmente estudando JavaScritp, HTML5, CSS3
 - 📫 Você pode entrar em contato comigo pelo email: william.teletabs@hotmail.com
 - 😄 Pronomes: ele/dele
