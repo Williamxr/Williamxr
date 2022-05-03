@@ -3,7 +3,6 @@
 - 🙋‍♂️ Dev Front End
 - 👨‍💻 Atualmente focado em JavaScritp, HTML5, CSS3
 - 📫 Você pode entrar em contato comigo pelo email: william.teletabs@hotmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Williamxr">
