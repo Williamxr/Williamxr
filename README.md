@@ -1,8 +1,8 @@
 ### Olá,  sou Williamxr 👋🌎
 
 - 🙋‍♂️ Dev Front End
-- 👨‍💻 Atualmente focado em JavaScritp, HTML5, CSS3
-- 📫 Você pode entrar em contato comigo pelo email: william.teletabs@hotmail.com
+- 👨‍💻 Atualmente focado em JavaScritp, HTML5, CSS3, PHP, React.js
+- 📫 Você pode entrar em contato comigo pelo email: williamgr.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/Williamxr">
