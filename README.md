@@ -1,7 +1,7 @@
 ### Olá,  sou Williamxr 👋🌎
 
 - 🙋‍♂️ Dev Front End
-- 👨‍💻 Atualmente focado em JavaScritp, HTML5, CSS3, PHP, React.js
+- 👨‍💻 Atualmente focado em JavaScript, HTML5, CSS3, PHP, WordPress
 - 📫 Você pode entrar em contato comigo pelo email: williamgr.dev@gmail.com
 
 <div align="center">
